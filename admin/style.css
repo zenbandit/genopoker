@@ -1,0 +1,13 @@
+input[type=checkbox]:checked + label {
+  color: #fff;
+  background-color: #007bff;
+  width:80%;
+} 
+
+h2 {
+	font-size: 24px;
+}
+
+td, th {
+	padding: 6px;
+}
